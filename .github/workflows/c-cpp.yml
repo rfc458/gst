@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: compilar
-      run: ./configure
+      run: gcc main.c -o main
 
     - name: execute
       run: ./main
