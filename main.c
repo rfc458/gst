@@ -12,4 +12,5 @@ int main(){
     printf("The king is back!!!!\n");
     printf("The king is back!!!!\n");
     printf("The king is back!!!!\n");
+    return 0;
 }
